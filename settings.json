@@ -34,7 +34,7 @@
     },
     "platforms": {
       "clashgg": {
-        "status": "coming_soon",
+        "status": "active",
         "showDropdown": true,
         "showLive": true
       },
