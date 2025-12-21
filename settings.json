@@ -28,13 +28,13 @@
   "siteConfig": {
     "sections": {
       "leaderboards": "active",
-      "promotions": "coming_soon",
+      "promotions": "active",
       "videos": "active",
       "socials": "active"
     },
     "platforms": {
       "clashgg": {
-        "status": "coming_soon",
+        "status": "active",
         "showDropdown": true,
         "showLive": true
       },
