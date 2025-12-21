@@ -27,7 +27,7 @@
   },
   "siteConfig": {
     "sections": {
-      "leaderboards": "coming_soon",
+      "leaderboards": "active",
       "promotions": "active",
       "videos": "active",
       "socials": "active"
