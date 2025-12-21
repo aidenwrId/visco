@@ -47,6 +47,11 @@
         "status": "active",
         "showDropdown": true,
         "showLive": true
+      },
+      "testing": {
+        "status": "coming_soon",
+        "showDropdown": true,
+        "showLive": false
       }
     }
   }
