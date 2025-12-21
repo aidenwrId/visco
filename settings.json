@@ -51,7 +51,7 @@
       "testing": {
         "status": "coming_soon",
         "showDropdown": true,
-        "showLive": false
+        "showLive": true
       }
     }
   }
