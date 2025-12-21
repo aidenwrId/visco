@@ -7,9 +7,18 @@
     "rgbSpeed": 10
   },
   "api": {
-    "clashgg": { "endpoint": "", "apiKey": "" },
-    "acebet": { "endpoint": "", "apiKey": "" },
-    "gamba": { "endpoint": "", "apiKey": "" }
+    "clashgg": {
+      "endpoint": "",
+      "apiKey": ""
+    },
+    "acebet": {
+      "endpoint": "",
+      "apiKey": ""
+    },
+    "gamba": {
+      "endpoint": "",
+      "apiKey": ""
+    }
   },
   "leaderboard": {
     "clashResetDays": 10,
@@ -24,9 +33,21 @@
       "socials": "active"
     },
     "platforms": {
-      "clashgg": { "status": "active", "showDropdown": true, "showLive": true },
-      "acebet": { "status": "coming_soon", "showDropdown": true, "showLive": true },
-      "gamba": { "status": "active", "showDropdown": true, "showLive": true }
+      "clashgg": {
+        "status": "coming_soon",
+        "showDropdown": true,
+        "showLive": true
+      },
+      "acebet": {
+        "status": "coming_soon",
+        "showDropdown": true,
+        "showLive": true
+      },
+      "gamba": {
+        "status": "active",
+        "showDropdown": true,
+        "showLive": true
+      }
     }
   }
 }
