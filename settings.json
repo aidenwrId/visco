@@ -24,35 +24,5 @@
     "clashResetDays": 10,
     "acebetResetDays": 10,
     "gambaResetDays": 10
-  },
-  "siteConfig": {
-    "sections": {
-      "leaderboards": "active",
-      "promotions": "active",
-      "videos": "active",
-      "socials": "active"
-    },
-    "platforms": {
-      "clashgg": {
-        "status": "active",
-        "showDropdown": true,
-        "showLive": true
-      },
-      "acebet": {
-        "status": "coming_soon",
-        "showDropdown": true,
-        "showLive": true
-      },
-      "gamba": {
-        "status": "active",
-        "showDropdown": true,
-        "showLive": true
-      },
-      "fgd": {
-        "status": "coming_soon",
-        "showDropdown": true,
-        "showLive": true
-      }
-    }
   }
 }
