@@ -49,5 +49,12 @@
         "showLive": true
       }
     }
+  },
+  "announcement": {
+    "type": "youtube",
+    "videoId": "onib3bDo6Z0",
+    "url": "https://www.youtube.com/watch?v=onib3bDo6Z0",
+    "autoplay": true,
+    "timestamp": 1766425643229
   }
 }
